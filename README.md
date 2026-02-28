@@ -15,3 +15,11 @@ sudo usermod -aG backend_team [username]
 # The etc command explanation
 command used:
 cat /etc/passwd
+
+username-> the login name of the user
+x-> password of the user
+UID->the users id number
+GID->the users group id
+comments
+home_directory-> users home folder
+shell->Default login shell
